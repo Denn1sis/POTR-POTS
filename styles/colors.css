@@ -1,0 +1,13 @@
+:root {
+    /* Оголошення змінної зі значенням кольору */
+    --my_Turquoise: #03839E;
+    --my_Yellow: #FFE339;
+    --my_Yellow-light: #FFEC7A;
+    --my_Grey: #B3B3B3;
+    --my_Grey-light: #F8F8F8;
+    --my_Grey-text-p: #4f4f4f;
+    --my_Red: #EB5757;
+    --my_Text: #333333;
+    --my_Black: #000000;
+    --my_Background: #111;
+  }
